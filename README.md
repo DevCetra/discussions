@@ -1,1 +1,1 @@
-Welcome to DevCetra's GitHub repository!
+This repository hosts the discussions for this organization.
